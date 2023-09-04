@@ -1,0 +1,5 @@
+
+bildiğimiz word dosyası oldu. file ismine .txt yazınca otomatik oluyır
+
+
+java candır
